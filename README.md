@@ -1,9 +1,10 @@
+# Dapr
+This repository contains sample  code for Dapr
  
- <img src="https://github.com/khanasif1/Simply-Dapr/blob/7e2b703ccc84e6f977e50a8dd7afe7283d2fcd33/img/dapr.png" alt="DAPR">
- <img src="https://github.com/khanasif1/Simply-Dapr/blob/7e2b703ccc84e6f977e50a8dd7afe7283d2fcd33/img/dapr-components.png" alt="DAPR">
+ <img src="https://github.com/khanasif1/Simply-Dapr/blob/7e2b703ccc84e6f977e50a8dd7afe7283d2fcd33/img/dapr.png" alt="DAPR" height="300">
+ Dapr helps developers build event-driven, resilient distributed applications. Whether on-premises, in the cloud, or on an edge device, Dapr helps you tackle the challenges that come with building microservices and keeps your code platform agnostic.
 
-# Simply-Dapr
-This repository is a simple contains code and samples for Dapr
+ <img src="https://github.com/khanasif1/Simply-Dapr/blob/7e2b703ccc84e6f977e50a8dd7afe7283d2fcd33/img/dapr-components.png" alt="DAPR" height="300">
 
 ## Create a Web API Project
 Install dotnet SDK
