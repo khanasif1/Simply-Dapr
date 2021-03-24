@@ -1,6 +1,6 @@
  
  <img src="https://github.com/khanasif1/Simply-Dapr/img/dapr.png" alt="DAPR">
- <img src="https://github.com/khanasif1/Simply-Dapr/img/dapr-components.png" alt="DAPR">
+ <img src="https://github.com/khanasif1/Simply-Dapr/blob/7e2b703ccc84e6f977e50a8dd7afe7283d2fcd33/img/dapr-components.png" alt="DAPR">
 # Simply-Dapr
 This repository is a simple contains code and samples for Dapr
 
